@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact: I drink tea instead of coffee.
 
+## And a joke to lighten the mood:
+
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
