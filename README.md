@@ -1,6 +1,5 @@
 
-### Hello there!
-                            
+### Hello there!                            
 
 
 - 🌱 I’m studying at Tallinna Polütehnikum to become a software engineer.
@@ -11,7 +10,7 @@
 
 - ⚡ Fun fact: I drink tea instead of coffee.
 
-## And a joke to lighten the mood:
+ And a joke to lighten the mood:
 
 <!-- Markdown -->
 
