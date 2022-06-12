@@ -4,7 +4,7 @@
 
 - 🌱 I’m studying at Tallinna Polütehnikum to become a software engineer.
  
-- 👁‍🗨 Languages and technologies: Basic HTML, CSS, JavaScript, Python, SQL;  beginner webpack, bootstrap, PHP.
+- 👁‍🗨 Languages and technologies: Basic HTML, CSS, JavaScript, Python, SQL, Java;  beginner webpack, bootstrap, PHP.
                
 - 📫 e-mail: lennartmagna@gmail.com
 
