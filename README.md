@@ -2,7 +2,7 @@
 ### Hello there!                            
 
 
-- 🌱 I’m studying at Tallinna Polütehnikum to become a software engineer.
+- 🌱 I’m studying at Tallinna Polütehnikum to become a software developer.
  
 - 👁‍🗨 Languages and technologies: Basic HTML, CSS, JavaScript, Python, SQL, Java;  beginner webpack, bootstrap, PHP.
                
