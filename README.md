@@ -39,7 +39,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="50px" />          
 </span>
 
-<br><br>
+<br>
+
+<details>
+  <summary>Github stats...</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=LenSuur&show_icons=true&count_private=true&theme=dark" />
+</details>
+
+<br>
 
  And a joke to lighten the mood:
 
