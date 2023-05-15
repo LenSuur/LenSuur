@@ -47,7 +47,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=LenSuur.LenSuur&style=for-the-badge">
-<a>
+![](https://komarev.com/ghpvc/?username=LenSuur&color=orange)
  
