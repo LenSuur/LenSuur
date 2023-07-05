@@ -2,7 +2,7 @@
 ### Hello there!                            
 
 
-- 🌱 I’m studying at Tallinna Polütehnikum to become a software developer. 
+- 🌱 I’m a junior software developer on a never-ending path of what is often called evolving.
 
 - 📫 e-mail: lennartmagna@gmail.com
 
