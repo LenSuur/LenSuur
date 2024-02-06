@@ -4,7 +4,7 @@
 
 - 🌱 I’m a junior software developer on a never-ending path of what is often called evolving.
 
-- 📫 e-mail: lennartmagna@gmail.com
+- 📫 e-mail: lesuur@taltech.ee
 
 - ⚡ Fun fact: I drink tea instead of coffee.
 
