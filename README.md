@@ -2,7 +2,7 @@
 ### Hello there!                            
 
 
-- 🌱 I’m a junior software developer on a never-ending path of what is often called evolving.
+- 🌱 I’m a software developer on a never-ending path of what is often called evolving.
 
 - 📫 e-mail: lesuur@taltech.ee
 
